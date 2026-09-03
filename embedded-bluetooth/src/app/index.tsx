@@ -9,6 +9,10 @@ import { ThemedView } from '@/components/themed-view';
 import { WebBadge } from '@/components/web-badge';
 import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
 
+// for internal routing
+import { Link } from 'expo-router';
+import { Text, View } from 'react-native';
+
 function getDevMenuHint() {
   if (Platform.OS === 'web') {
     return <ThemedText type="small">use browser devtools</ThemedText>;
@@ -35,7 +39,9 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
-            Hello WOrld!
+            <Link href="/color">
+              <Text>Hello World!</Text>
+            </Link>
           </ThemedText>
         </ThemedView>
 
