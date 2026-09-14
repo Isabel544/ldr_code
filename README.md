@@ -13,5 +13,6 @@ https://reactnative.dev/docs/environment-setup
 - using Expo for the application set up
 - it works as environment and libraries to support React Native
 - https://docs.expo.dev/get-started/set-up-your-environment/
-    - use the command 'npx expo start' to get the QR code for the expo app
-    - 'npx expo start --tunnel' , alternate command if the command says failed to download remote update or network issue when Phone and Laptop is already connected using the same network
+    - use the command 'npx expo start --tunnel' to get the QR code for the expo app
+    - 'npx expo -c --tunnel' to help clear cache first
+    - 'npx expo start' , is the basic command that should work, but it always gives "failed to download remote update or network" issue when Phone and Laptop is already connected using the same network for some reason

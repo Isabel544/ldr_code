@@ -30,3 +30,6 @@ Components/: reusable UI pieces (exp: function MyButton() {
         </Pressable>
       );
     })
+
+Code example:
+https://github.com/amandeepmittal/react-native-examples

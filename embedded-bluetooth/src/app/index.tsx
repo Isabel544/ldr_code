@@ -1,6 +1,7 @@
 import * as Device from 'expo-device';
-import { Platform, StyleSheet } from 'react-native';
+import { Platform, Pressable, StyleSheet, Text, View } from 'react-native';
 import { SafeAreaView } from 'react-native-safe-area-context';
+import { Link } from 'expo-router';
 
 import { AnimatedIcon } from '@/components/animated-icon';
 import { HintRow } from '@/components/hint-row';
@@ -9,9 +10,6 @@ import { ThemedView } from '@/components/themed-view';
 import { WebBadge } from '@/components/web-badge';
 import { BottomTabInset, MaxContentWidth, Spacing } from '@/constants/theme';
 
-// for internal routing
-import { Link } from 'expo-router';
-import { Text, View } from 'react-native';
 
 function getDevMenuHint() {
   if (Platform.OS === 'web') {
@@ -39,10 +37,23 @@ export default function HomeScreen() {
         <ThemedView style={styles.heroSection}>
           <AnimatedIcon />
           <ThemedText type="title" style={styles.title}>
-            <Link href="/color">
-              <Text>Hello World!</Text>
-            </Link>
+            Hello World!
           </ThemedText>
+
+<Link href="/color" asChild>
+  <Pressable
+    style={({ pressed }) => [
+      styles.colorButton,
+      pressed && styles.colorButtonPressed,
+    ]}
+  >
+    <Text style={styles.colorButtonText}>
+      Open Color Picker
+    </Text>
+  </Pressable>
+</Link>
+
+
         </ThemedView>
 
         <ThemedText type="code" style={styles.code}>
@@ -73,6 +84,26 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
     flexDirection: 'row',
   },
+
+  colorButton: {
+    backgroundColor: '#4169E1',
+    paddingHorizontal: 20,
+    paddingVertical: 10,
+    borderRadius: 8,
+    marginTop: 12,
+  },
+
+  colorButtonPressed: {
+    backgroundColor: '#2F4FA3',
+    opacity: 0.8,
+  },
+
+  colorButtonText: {
+    color: '#fff',
+    fontSize: 16,
+    fontWeight: '600',
+  },
+
   safeArea: {
     flex: 1,
     paddingHorizontal: Spacing.four,
