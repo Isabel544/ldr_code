@@ -1,0 +1,14 @@
+# Target labels
+ picotool-populate
+# Source files and their labels
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/CMakeFiles/picotool-populate-complete.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-build.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-configure.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-download.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-install.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-mkdir.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-patch.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-test.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-subbuild/picotool-populate-prefix/src/picotool-populate-stamp/picotool-populate-update.rule

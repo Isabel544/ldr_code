@@ -1,0 +1,20 @@
+cmake_minimum_required(VERSION 3.13)
+
+include(pico_sdk_import.cmake)
+
+project(to_get_debugger_connection C CXX ASM)
+
+set(CMAKE_C_STANDARD 11)
+set(CMAKE_CXX_STANDARD 17)
+
+pico_sdk_init()
+
+add_executable(to_get_debugger_connection
+    main.cpp
+)
+
+target_link_libraries(to_get_debugger_connection
+    pico_stdlib
+)
+
+pico_add_extra_outputs(to_get_debugger_connection)

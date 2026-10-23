@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild-complete.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule"
+		},
+		{
+			"file" : "C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"picotoolBuild"
+		],
+		"name" : "picotoolBuild"
+	}
+}

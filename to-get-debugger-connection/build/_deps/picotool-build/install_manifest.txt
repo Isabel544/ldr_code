@@ -1,0 +1,7 @@
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/picotool.exe
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/picotoolTargets.cmake
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/picotoolTargets-debug.cmake
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/picotoolConfig.cmake
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/picotoolConfigVersion.cmake
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/enc_bootloader.elf
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool/enc_bootloader_mbedtls.elf

@@ -1,0 +1,14 @@
+# Target labels
+ picotoolBuild
+# Source files and their labels
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/CMakeFiles/picotoolBuild-complete.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-build.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-configure.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-download.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-install.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-mkdir.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-patch.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-test.rule
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/pico-sdk/src/rp2350/boot_stage2/picotool/src/picotoolBuild-stamp/picotoolBuild-update.rule

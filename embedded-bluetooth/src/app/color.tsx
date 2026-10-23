@@ -208,6 +208,10 @@ export default function Color() {
   function updateAll(r: number, g: number, b: number) {
     const hex = rgbToHex(r, g, b);
     const hsv = rgbToHsv(r, g, b);
+
+    console.log(`Selected color: ${hex}`);
+    console.log(`RGB: R=${r} G=${g} B=${b}`);
+
     setHexText(hex);
     setHue(hsv.h);
     setSat(hsv.s);

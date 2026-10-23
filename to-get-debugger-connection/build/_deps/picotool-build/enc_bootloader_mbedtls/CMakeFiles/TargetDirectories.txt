@@ -1,0 +1,2 @@
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/edit_cache.dir
+C:/1.2_long_distance_connector_PCB/ldr_code/to-get-debugger-connection/build/_deps/picotool-build/enc_bootloader_mbedtls/CMakeFiles/rebuild_cache.dir
